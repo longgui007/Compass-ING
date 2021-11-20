@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f89c11",
+    "navigationBarTitleText": "指南针",
+    "navigationBarTextStyle":"black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序指南针的效果展示 "
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

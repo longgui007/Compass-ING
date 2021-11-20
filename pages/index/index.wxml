@@ -1,0 +1,9 @@
+<view class="container">
+  <image src="../../images/znz.jpg" mode="widthFix" style="transform: rotate({{rotate}}deg);"></image>
+  <text class="bigTxt">{{degree}}°{{direction}}</text>
+  <view class="status">
+    <text class="smallTxt">北纬： {{lat}}度</text>
+    <text class="smallTxt">东经： {{lon}}度</text>
+    <text class="smallTxt">海拔： {{alt}}米</text>
+  </view>
+</view>

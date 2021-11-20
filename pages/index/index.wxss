@@ -1,0 +1,24 @@
+.container{
+  height: 100vh;
+  color: #f89c11;
+}
+
+image{
+  position: relative;
+  top: -120rpx;
+  width: 60%;
+}
+.bigTxt{
+  font-size: 30pt;
+  margin: 15rpx;
+}
+.status{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.smallTxt{
+  font-size: 20pt;
+  margin: 15rpx;
+}
